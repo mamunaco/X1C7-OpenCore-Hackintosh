@@ -67,11 +67,11 @@ Since late 2023, I've been working to understand how I can develop a way to impl
 	- [Other repositories](#other-repositories)
 	- [Folks](#folks)
 
-> [!NOTE] Note
+> [!NOTE]
 > All tutorial here was made by **`Windows 10`**. If you are using **`MacOS`** or **`Linux`** as a primary OS, maybe some commands be different. So be careful!
 
 
-> [!CAUTION] Caution
+> [!CAUTION]
 > I'm not responsible for any **problems** or **damages** that **could possibly occur** on your laptop if you follow the tutorial below. The procedures transcribed in this repository were executed on the **GitHub user's laptop** and shared with the community for knowledge purposes without any obligation or warranty of success. By following these steps, **YOU TAKE ALL RESPONSIBILITY IF YOU TRY TO REPLICATE THESE ONES**.
 
 ## Observations
